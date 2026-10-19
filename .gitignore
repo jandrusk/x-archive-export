@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Do not commit personal X archives or export output
+data/
+Your archive.html
+twitter-*.zip
+*.zip
+x_posts.txt
+posts.txt
+*.jsonl
+archive/
